@@ -1,0 +1,79 @@
+# =====================================
+# Python
+# =====================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# =====================================
+# Jupyter Notebooks
+# =====================================
+.ipynb_checkpoints/
+
+# =====================================
+# Environments
+# =====================================
+venv/
+.env/
+.envrc
+*.env
+
+# =====================================
+# Datasets & Outputs
+# =====================================
+*.csv
+*.tsv
+*.jsonl
+*.zip
+*.tar.gz
+*.h5
+*.pkl
+*.joblib
+*.db
+*.cache/
+.cache/
+
+# =====================================
+# Model Files
+# =====================================
+models/trained_model/
+models/tokenizer/
+
+# Optional: uncomment if you want to ignore model weights completely
+# *.bin
+
+# =====================================
+# Reports & Plots
+# =====================================
+*.png
+*.pdf
+*.jpg
+*.jpeg
+reports/*.json
+reports/*.png
+
+# =====================================
+# IDE / Editor Configs
+# =====================================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# =====================================
+# System Files
+# =====================================
+.DS_Store
+Thumbs.db
+
+# =====================================
+# Git Files to Keep Empty Dirs
+# =====================================
+!.gitkeep
