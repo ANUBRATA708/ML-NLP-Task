@@ -75,12 +75,6 @@ This project uses the **Amazon Polarity** dataset, which meets all requirements:
 - ✅ Binary classification (positive vs. negative reviews)  
 - ✅ English text  
 
-Suggested alternatives if needed:
-- IMDB Movie Reviews  
-- AG News  
-- Yelp Reviews  
-- Twitter Sentiment datasets  
-
 ✅ Expected Deliverables  
 - ✅ Working fine-tuned DistilBERT model with saved weights  
 - ✅ Complete training pipeline using Hugging Face Transformers  
